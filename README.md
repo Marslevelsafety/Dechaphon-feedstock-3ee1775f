@@ -221,12 +221,8 @@ In order to produce a uniquely identifiable distribution:
    the [``build/number``](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string)
    back to 0.
 
-Feedstock Maintainers
+Feedstock Marslevelsafety
 =====================
 
-* [@matthiasdiener](https://github.com/matthiasdiener/)
-* [@mxr-conda](https://github.com/mxr-conda/)
-* [@oblute](https://github.com/oblute/)
-* [@pavelzw](https://github.com/pavelzw/)
-* [@rluria14](https://github.com/rluria14/)
+* [@Marslevelsafety](https://github.com/Marslevelsafety.)
 
